@@ -1,0 +1,10 @@
+body {
+    background: url("memphis-mini.png");
+    background-color: #777777;
+}
+
+.navbar-brand {
+    padding-left: 32px;
+}
+
+
